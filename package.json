@@ -1,0 +1,12 @@
+{
+  "name": "TDDjest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.2.6"
+  },
+  "scripts": {
+    "test":"jest"
+  }
+}
